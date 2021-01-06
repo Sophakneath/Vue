@@ -16,7 +16,7 @@
     "email": "pheakneath8@gmail.com"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "normalize.css": "^7.0.0",
     "object-assign": "^4.1.1",
     "offline-plugin": "^4.8.0",
